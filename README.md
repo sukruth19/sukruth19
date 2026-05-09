@@ -1,84 +1,127 @@
-<div align="center">
-
-```
-"Simple can be harder than complex. You have to work hard
- to get your thinking clean to make it simple."
-                                        — Steve Jobs
-```
-
-</div>
-
----
-
+````md
 <div align="center">
 
 # hey, i build things that think.
 
-**Backend Engineer · AI Systems · Voice Interfaces**
+**Backend Engineer · AI Systems · Voice Interfaces**  
 `Bengaluru, India`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+systems;Creating+voice-first+experiences;Designing+agentic+workflows;Spring+Boot+%2B+GenAI+Developer" />
 
 </div>
 
 ---
 
-## what i believe
+<div align="center">
 
-> Technology should disappear into the experience.  
-> The best code is the code no one notices — because it just *works*.
+```txt
+"Simple can be harder than complex. You have to work hard
+ to get your thinking clean to make it simple."
+                                        — Steve Jobs
+````
 
-I build intelligent systems that sit at the intersection of **language**, **voice**, and **real-time AI** — where the backend is invisible and the experience feels like magic.
+---
+
+## about me
+
+> Technology should disappear into the experience.
+> The best systems are the ones users never have to think about.
+
+I build intelligent backend systems focused on:
+
+* Agentic AI
+* Voice-first interfaces
+* Real-time AI orchestration
+* Scalable backend architectures
+* Human-like AI interactions
+
+My work sits at the intersection of **language**, **reasoning**, and **systems engineering**.
 
 ---
 
 ## tech stack
 
-**AI / Agents**
-```
+### AI / Agents
+
+```txt
 LangChain · LangGraph · Agent Scope · Spring AI
 ```
 
-**Backend**
-```
-Java · Spring Boot · REST APIs · Microservices
+### Backend
+
+```txt
+Java · Spring Boot · REST APIs · Microservices · MySQL
 ```
 
-**Voice & GenAI**
-```
+### Voice & GenAI
+
+```txt
 ElevenLabs TTS · Speech-to-Text (STT) · Generative AI
+```
+
+### Cloud / Tools
+
+```txt
+AWS · Git · GitHub · Docker · VS Code
 ```
 
 ---
 
 ## currently building
 
-### MAYA — Voice Assistant
+# MAYA — Agentic Voice Assistant
+
 > *"The most profound technologies are those that disappear."*
 
-**Maya** is an agentic voice assistant powered by:
+Maya is a real-time conversational AI assistant that can:
 
-| Layer | Tech |
-|-------|------|
-| Agent Orchestration | LangGraph + Agent Scope |
-| Text-to-Speech | ElevenLabs API |
-| Speech-to-Text | STT pipeline |
-| Backend | Spring Boot + Spring AI |
-| LLM | LangChain (tool-calling agents) |
+* Reason using agent workflows
+* Use tools dynamically
+* Maintain conversational memory
+* Speak naturally using TTS
+* Process live voice input
 
-Maya doesn't just respond — she **reasons**, uses tools, remembers context, and speaks in a natural human voice.
+### architecture
+
+| Layer               | Tech                           |
+| ------------------- | ------------------------------ |
+| Agent Orchestration | LangGraph + Agent Scope        |
+| Backend             | Spring Boot + Spring AI        |
+| LLM Framework       | LangChain                      |
+| Voice Output        | ElevenLabs API                 |
+| Speech Input        | STT Pipeline                   |
+| Memory              | Context-aware session handling |
 
 **Status:** Active Development
 
 ---
 
-## find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukruthindrahp/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sukruthindra@gmail.com)
+## github stats
 
 ---
 
-<div align="center">
+## 🏆 github trophies
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=sukruthindra&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)  
+
+---
+
+## current focus
+
+```txt
+→ Agentic AI Systems
+→ Voice Interfaces
+→ Spring AI + LangGraph
+→ Real-time AI orchestration
+→ Production-ready backend systems
+```
+
+---
+
+## connect with me
+
+---
+
+### philosophy
 
 *"Stay hungry. Stay foolish."*
-
-</div>
